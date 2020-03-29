@@ -1,0 +1,22 @@
+{
+  "name": "trav_responsive_portfolio",
+  "version": "1.0.0",
+  "description": "trav_responsive_portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonvalle69/trav_responsive_portfolio.git"
+  },
+  "author": "Wilson Vallecilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonvalle69/trav_responsive_portfolio/issues"
+  },
+  "homepage": "https://github.com/wilsonvalle69/trav_responsive_portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
