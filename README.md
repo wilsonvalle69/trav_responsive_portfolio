@@ -17,6 +17,12 @@ video 3:
 video 4:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/92J-3ajM0dI/0.jpg)](http://www.youtube.com/watch?v=92J-3ajM0dI&t=1s)
 
+video 5:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QOdnrMC9O7A/0.jpg)](http://www.youtube.com/watch?v=QOdnrMC9O7A&t=1s)
+
+video 6:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/oxTG7TVr7PQ/0.jpg)](http://www.youtube.com/watch?v=oxTG7TVr7PQ&t=1s)
+
 ## Commands
 
 npm init  
@@ -32,3 +38,4 @@ npm run sass
 ## CSS Information
 
 @mixin are function declaration in css
+@ at the begining means css code like @funstion, @return, @if
