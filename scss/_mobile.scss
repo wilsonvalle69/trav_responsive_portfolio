@@ -71,14 +71,18 @@
 
 // Smartphones
 @include mediaSm {
-  main#home h1 {
-    margin-top: 10vh;
-    font-size: 4em;
-    // color: red;
-  }
+  main {
+    padding: 2rem;
 
-  main#home h2 {
-    font-size: 1.3em;
+    #home h1 {
+      margin-top: 10vh;
+      font-size: 4em;
+      // color: red;
+    }
+
+    #home h2 {
+      font-size: 1.3em;
+    }
   }
 
   .projects {

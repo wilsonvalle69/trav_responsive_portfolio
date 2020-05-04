@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "trav_responsive_portfolio",
   "main": "index.js",
-  "homepage": "https://wilsonvalle69.github.io/trav_responsive_portfolio",
+  "homepage": "https://wilsonvalle69.github.io/trav_responsive_portfolio/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive",
     "deploy": "gh-pages -d dist"
