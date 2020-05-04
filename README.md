@@ -15,13 +15,20 @@ video 3:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7WaohfclZRs/0.jpg)](http://www.youtube.com/watch?v=7WaohfclZRs&t=1s)
 
 video 4:
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/92J-3ajM0dI/0.jpg)](http://www.youtube.com/watch?v=92J-3ajM0dI&t=1s)
 
 video 5:
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QOdnrMC9O7A/0.jpg)](http://www.youtube.com/watch?v=QOdnrMC9O7A&t=1s)
 
 video 6:
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/oxTG7TVr7PQ/0.jpg)](http://www.youtube.com/watch?v=oxTG7TVr7PQ&t=1s)
+
+video 7:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qGYNbrT9P6Y/0.jpg)](http://www.youtube.com/watch?v=qGYNbrT9P6Y&t=1s)
 
 ## Commands
 
@@ -39,3 +46,15 @@ npm run sass
 
 @mixin are function declaration in css
 @ at the begining means css code like @funstion, @return, @if
+
+## Deploy in github
+
+npm i gh-pages
+
+replace readme link in package.json
+"homepage": "https://github.com/wilsonvalle69/trav_responsive_portfolio#readme",
+"homepage": "https://wilsonvalle69.github.io/trav_responsive_portfolio",
+
+
+host
+namecheap.com

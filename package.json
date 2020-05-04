@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "trav_responsive_portfolio",
   "main": "index.js",
+  "homepage": "https://wilsonvalle69.github.io/trav_responsive_portfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css --recursive"
+    "sass": "node-sass -w scss/ -o dist/css --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,8 +17,8 @@
   "bugs": {
     "url": "https://github.com/wilsonvalle69/trav_responsive_portfolio/issues"
   },
-  "homepage": "https://github.com/wilsonvalle69/trav_responsive_portfolio#readme",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.1"
   }
 }
